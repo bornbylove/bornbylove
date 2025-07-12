@@ -1,7 +1,7 @@
 - 👋 Hi, I’m FALODUN EBENEZER
 - 👀 I’m interested in the position of Software Engineer
 - I have my background in Computer Science and Information Technology
-- 💞️ I’m looking to collaborate with frontend developers who needs a good backend design for their application
+- 💞️ I’m looking to collaborate with product designers, frontend developers who needs a good backend design for their application
 - 📫 You can email me at olatunbosunfalodun@yahoo.com for collaborations and/or many other enquiries.
 
 <!---
